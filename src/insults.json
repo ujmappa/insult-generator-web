@@ -1,0 +1,1035 @@
+{
+	"templates": [
+		"${username}, te ${adjective} ${statement}, te ${adjective} ${statement}, te ${adjective} ${statement}, te ${adjective} ${statement}, te ${adjective} ${statement}",
+		"${username}, te ${adjective*} ${statement}, ${intimidation}, ${intimidation}",
+		"${username}, te ${adjective*} ${statement}, te ${adjective*} ${statement}, ${goaway}",
+		"${username}, te ${adjective*} ${statement}, te ${adjective*} ${statement}, te ${adjective*} ${statement}",
+		"${username}, te ${adjective*} ${statement}, te ${adjective*} ${statement}, ${intimidation}",
+		"${username}, ${intimidation}, te ${adjective*}, ${adjective*} ${statement}",
+		"${username}, te ${adjective*} ${statement}, ${intimidation}, te ${adjective*} ${statement}",
+		"${username}, te ${adjective*}, ${adjective*} ${statement}, ${intimidation}",
+		"${goaway}, ${username}, te ${adjective*} ${statement}, ${intimidation}",
+		"${username}, ${intimidation*}, ${intimidation*}",
+		"${username}, te ${adjective*}, ${adjective*}, ${adjective*} ${statement}, ${intimidation*}",
+		"${username}, te ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*} ${statement}, ${intimidation}",
+		"Hogy az a ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*} ${statement} ${username}",
+		"Hogy az a ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*} ${statement} ${username}",
+		"Hogy az a ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*}, ${adjective*} ${username}"
+	],
+	"adjective": {
+		"ágrólszakadt": {
+			"gender": "both",
+			"category": "general"
+		},
+		"becstelen": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"bronztérdű": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"bojlertestű": {
+			"gender": "female",
+			"category": "looks"
+		},
+		"bukszaszájú": {
+			"gender": "female",
+			"category": "general"
+		},
+		"büdöslábú": {
+			"gender": "both",
+			"category": "general"
+		},
+		"cimbalomarcú": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"csapágyas": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"csempeszobában felnevelkedett": {
+			"gender": "female",
+			"category": "general"
+		},
+		"csenevész": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"csetres nyelvű": {
+			"gender": "female",
+			"category": "nature"
+		},
+		"csökött agyú": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"csőszkunyhóban elrejtett": {
+			"gender": "both",
+			"category": "general"
+		},
+		"disznó életű": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"ebugatta": {
+			"gender": "both",
+			"category": "general"
+		},
+		"együgyű": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"elfuserált": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"értéktelen": {
+			"gender": "female",
+			"category": "general"
+		},
+		"eszefogyott": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"fabatkát sem érő": {
+			"gender": "both",
+			"category": "general"
+		},
+		"fafogú rézfűrésszel megsebzett": {
+			"gender": "both",
+			"category": "general"
+		},
+		"fátólszakadt": {
+			"gender": "both",
+			"category": "general"
+		},
+		"félcédulás": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"flepnis": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"fogalmatlan": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"fókabajszú": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"gúvadtszemű": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"gyengeelméjű": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"háborodott": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"hamis életű": {
+			"gender": "female",
+			"category": "general"
+		},
+		"hasznavehetetlen": {
+			"gender": "both",
+			"category": "general"
+		},
+		"hernyótalpas": {
+			"gender": "female",
+			"category": "general"
+		},
+		"hitvány": {
+			"gender": "both",
+			"category": "general"
+		},
+		"hígvelejű": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"hínárosagyú": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"holdkóros": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"hordóhasú": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"ingyenbárcás": {
+			"gender": "female",
+			"category": "general"
+		},
+		"kanállal fejtett szakállú": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"korhely": {
+			"gender": "male",
+			"category": "general"
+		},
+		"köcsögfejű": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"ködmönbe bújtatott": {
+			"gender": "both",
+			"category": "general"
+		},
+		"kutyák szájából kirángatott": {
+			"gender": "both",
+			"category": "general"
+		},
+		"lángosképű": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"leharcolt": {
+			"gender": "female",
+			"category": "general"
+		},
+		"léhűtő": {
+			"gender": "both",
+			"category": "general"
+		},
+		"lepényfülű": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"lyukasagyú": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"karcsúeszű": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"kőbölcsőben ringatott": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"makrancoskodó": {
+			"gender": "female",
+			"category": "general"
+		},
+		"málészájú": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"megveszekedett": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"mihaszna": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"mocskos, tetves, rabló": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"mosléknyelő": {
+			"gender": "both",
+			"category": "general"
+		},
+		"nokedlis picsájú": {
+			"gender": "female",
+			"category": "looks"
+		},
+		"nyáladzó": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"nyámnyila": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"oktondi": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"orgonasíp mellett nevelkedett": {
+			"gender": "male",
+			"category": "general"
+		},
+		"pikkelypáncélt hordó": {
+			"gender": "female",
+			"category": "general"
+		},
+		"puliszkapusztító": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"pipogya": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"piszkos harisnyájú": {
+			"gender": "female",
+			"category": "looks"
+		},
+		"repedtsarkú": {
+			"gender": "female",
+			"category": "general"
+		},
+		"rézhasú": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"ritkafogú": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"rosszéletű": {
+			"gender": "female",
+			"category": "nature"
+		},
+		"sárganyakú": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"selejtes": {
+			"gender": "both",
+			"category": "general"
+		},
+		"sírvasportoló": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"sikoltozásokba öltöztetett": {
+			"gender": "both",
+			"category": "general"
+		},
+		"sumák": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"suta": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"svábnadrágos": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"szánalmas": {
+			"gender": "both",
+			"category": "general"
+		},
+		"széllelbélelt": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"szélütött": {
+			"gender": "both",
+			"category": "general"
+		},
+		"szerencsétlen": {
+			"gender": "both",
+			"category": "general"
+		},
+		"szőröstalpú": {
+			"gender": "both",
+			"category": "general"
+		},
+		"szultán udvarát megjárt": {
+			"gender": "female",
+			"category": "general"
+		},
+		"tányérnyalogató": {
+			"gender": "both",
+			"category": "general"
+		},
+		"tuskólábú": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"töketlen": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"tükörmászó": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"tűzre való": {
+			"gender": "female",
+			"category": "general"
+		},
+		"tyúkeszű": {
+			"gender": "female",
+			"category": "nature"
+		},
+		"vénségére megbolondult": {
+			"gender": "both",
+			"category": "nature"
+		}
+	},
+	"statement": {
+		"ágybetét": {
+			"gender": "female",
+			"category": "general"
+		},
+		"akasztófavirág": {
+			"gender": "male",
+			"category": "general"
+		},
+		"anyaszomorító": {
+			"gender": "male",
+			"category": "general"
+		},
+		"átkozott csaló": {
+			"gender": "both",
+			"category": "general"
+		},
+		"bányarém": {
+			"gender": "female",
+			"category": "looks"
+		},
+		"bazári majom": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"balfácán": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"balfék": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"birka": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"bődületes marha": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"böszme": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"borzadály": {
+			"gender": "female",
+			"category": "general"
+		},
+		"bohóc": {
+			"gender": "male",
+			"category": "general"
+		},
+		"bugris": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"bumburnyák": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"cemende": {
+			"gender": "female",
+			"category": "general"
+		},
+		"cifra rongy": {
+			"gender": "female",
+			"category": "general"
+		},
+		"címeres ökör": {
+			"gender": "male",
+			"category": "general"
+		},
+		"csatakanca": {
+			"gender": "female",
+			"category": "general"
+		},
+		"csillámfaszláma": {
+			"gender": "male",
+			"category": "general"
+		},
+		"csoroszlya": {
+			"gender": "female",
+			"category": "general"
+		},
+		"disznók hátuljára való ördögadta": {
+			"gender": "male",
+			"category": "general"
+		},
+		"díszpinty": {
+			"gender": "male",
+			"category": "general"
+		},
+		"éhenkórász": {
+			"gender": "male",
+			"category": "general"
+		},
+		"hepciás": {
+			"gender": "female",
+			"category": "general"
+		},
+		"hülyegyerek": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"faszparaszt": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"fajankó": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"felfuvalkodott pulykakakas": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"félnótás": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"fikamatyi": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"flúgos": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"fogyatékos": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"genetikai baleset": {
+			"gender": "both",
+			"category": "general"
+		},
+		"gyászhuszár": {
+			"gender": "male",
+			"category": "general"
+		},
+		"gyáva kukac": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"holdkóros": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"idióta": {
+			"gender": "male",
+			"category": "general"
+		},
+		"infantilis": {
+			"gender": "both",
+			"category": "general"
+		},
+		"kapcabetyár": {
+			"gender": "male",
+			"category": "general"
+		},
+		"kerge tuskó": {
+			"gender": "male",
+			"category": "general"
+		},
+		"komplett bolond": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"lókötő": {
+			"gender": "male",
+			"category": "general"
+		},
+		"macskajancsi": {
+			"gender": "male",
+			"category": "general"
+		},
+		"nagy, egyetemes, világméretű csaló": {
+			"gender": "female",
+			"category": "general"
+		},
+		"nyomorék görcs": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"örök vesztes": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"ostoba tökfilkó": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"otromba fráter": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"paprikajancsi": {
+			"gender": "male",
+			"category": "general"
+		},
+		"pernahajder": {
+			"gender": "male",
+			"category": "general"
+		},
+		"pünkösdi sültökör": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"ripacs": {
+			"gender": "male",
+			"category": "general"
+		},
+		"sehonnai bitang": {
+			"gender": "male",
+			"category": "general"
+		},
+		"semmirekellő": {
+			"gender": "both",
+			"category": "general"
+		},
+		"senkiházi": {
+			"gender": "both",
+			"category": "general"
+		},
+		"sötét paraszt": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"sudri bunkó": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"süle pöffeszkedő": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"svihák": {
+			"gender": "male",
+			"category": "general"
+		},
+		"szégyent vallott boszorkány": {
+			"gender": "female",
+			"category": "general"
+		},
+		"szikkadt picsájú banya": {
+			"gender": "female",
+			"category": "general"
+		},
+		"szukafattya": {
+			"gender": "male",
+			"category": "general"
+		},
+		"takonypóc": {
+			"gender": "male",
+			"category": "general"
+		},
+		"tar baromállat": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"tökkelütött dilinyós": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"utolsó lelenc": {
+			"gender": "both",
+			"category": "general"
+		},
+		"vadbarom": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"zsírpubi": {
+			"gender": "male",
+			"category": "looks"
+		}
+	},
+	"goaway": {
+		"akkor lássalak, amikor a hátam közepét": {
+			"gender": "both",
+			"category": "general"
+		},
+		"eridj innen, mert kiirtalak!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"elmehetsz te a Rákóczi téri kivénhedt kéjnők vörösrézzel kivert, kárpitozott, foncsérozott, nagy büdös, vasporos valagába": {
+			"gender": "both",
+			"category": "general"
+		},
+		"hordd el az irhádat!": {
+			"gender": "male",
+			"category": "general"
+		},
+		"húzzál bőrt a fogadra!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"menjél haza chatelni!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"menj innen, amíg szépen mondom": {
+			"gender": "both",
+			"category": "general"
+		},
+		"menj a szemed világába innen!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"mikor akasztod a nyakadba az öregapád kódistarisznyáját, hogy miatyánkon cseréld a kenyeret?": {
+			"gender": "male",
+			"category": "general"
+		}
+	},
+	"intimidation": {
+		"a csákováci rosseb rágná szét a valagad rántó szíját!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a csúz rágja le az orrod hegyét!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a déloszi kétfarkú szatírosz nézzen izmoscombú erdei nimfának!": {
+			"gender": "male",
+			"category": "funny"
+		},
+		"a fekete fene egye ki a fogad ráspolynak!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a fekete politúros rosseb egyen meg!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a holló mondja a szemedre azt, hogy csecsebogyó!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a hóhér kösse meg a nyakkendődet!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"a hólyagos himlő verje ki a pofádat!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"a kajlakucsmás, darutollas, büdös kutya úristenedet már!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"a kannibálok mondják rád hogy jó ember voltál!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a küszöb legyen a legmagasabb bútorod!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a lapos guta üssön meg! A gömbölyű guta üssön meg! Mindenféle guta üssön meg!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a medve igyon rád vizet!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a mókus rakjon fészket az orrodban!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a pántlikás, tűzes ménkű üssön meg!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a rabsegélyező egyesület gyámolítson téged!": {
+			"gender": "male",
+			"category": "funny"
+		},
+		"a rossznyavalya törne ki ott, ahol vagy!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a sintér világítson a holttested felett november elsején!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"a sírásó legyen az utolsó barátod!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a szentséges római pápa pecsenyeforgató kutyájának a farka!":  {
+			"gender": "none",
+			"category": "funny"
+		},
+		"a szentségit annak a rozsdás ollónak, amelyikkel az úristen kerekre szabta ezt a r...nc világot!": {
+			"gender": "none",
+			"category": "general"
+		},
+		"a tésztakészítő asszony cakkozza ki a füled!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"az isten pofozza rád a temetőajtót!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"az öcséd szólítson Apunak!": {
+			"gender": "male",
+			"category": "general"
+		},
+		"azt a vértizzadós, gyomorbajos, agyatlan hétszentségedet!": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"azt a Júdás apostollal összecimborázott, aprópénzhamisító Poncius Pilátusát a jeruzsálemi Golgota hegyén Krisztus káromló latorképen keresztre feszített paraszt öregapádnak!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"azt az Ábrahámra vicsorodó, félszemű, randa pofádat!": {
+			"gender": "male",
+			"category": "looks"
+		},
+		"azt a fűzfán fütyülő, jégen kopogó, csillagok között botorkáló, istentől elrugaszkodott kutya rézangyalát a bitang öregapádnak!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"azt a rézkarikán fityergő, árokban nyöszörgő, repedtsarkú, teletalpú, ócska bugyellárisszájú szentedet!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"akkora bunkó vagy, hogy mammutot lehetne veled ütni": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"akkorát taszítok rajtad, mint a szentesi emberen a hosszú kutya": {
+			"gender": "male",
+			"category": "threat"
+		},
+		"áldjon meg az isten, mint a szuhai malmot": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"annyi esélyed van itt, mint vizilónak az Epsomi derbin": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"annyi eszed van, mint egy marék lepkének": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"basszus hangon csicseregjen a füledbe a vaddisznó!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"csapjon beléd a tüzes, csattogó, villogó, sziporkás, kujtorgó mennykő!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"csapjon beléd a sistergős, ropogós, tüzes, kénköves, mennydörgős, haragos mennykő!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"csináljanak gumipuskát a füledből, és lőjék ki a fejed!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"egy fogad legyen, az is fájjon!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"ha a hülyeségtől nőni lehetne, ülve csókolgatnád a napot!": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"ha a mókusnak ilyen feje lenne, magára gyújtaná az erdőt!": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"ha ilyen fejem lenne, felültetném a buszra és integetnék neki!": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"hát mi vagy te?! Szélütött, öreg ócskavas-kereskedő nehéz sorstól sújtott, idióta gyermeke?": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"hogy az a szép fényes ló harapja meg azt a kockás eget!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy az a ráckazári lingőtrosseb húzna rajtad bánatos valcert!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"hogy az Isten rakjon a kopaszok közé hajasbabának!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"hogy az a nyugalmazott jupiteri metángázos, hernyótalpas, lila lepedékes, vénséges bányarém tekerne téged mind a harminchat csápja köré!": {
+			"gender": "male",
+			"category": "funny"
+		},
+		"hogy az a jó repedtsarkú tavitündér kapjon szájzárat rajtad!": {
+			"gender": "male",
+			"category": "funny"
+		},
+		"hogy az ördög szánkózzon a hátadon!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"hogy az a hetvenlábú, büdöstalpú marsi pillangó taposna agyon": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy az a rézfánfütyülős, féllábú vaskakas csípje meg az irdatlan hosszúságú öszvérfüledet!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy az az aranyprotkós, rumvedelő, hejhózó, akasztófáravaló bitang kalóz uraság lógatna fel téged fejjel lefelé az árbocra!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy az ördög cifrázná ki a pöcsödet csalánnal!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"hogy csípne meg a bolha! Rúgna meg a tehén! A holló vájja ki a szemed!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"hogy forduljon meg a halottaskocsi a bendődben, te gané, oszt én üljek a bakon!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"hogy kapnál hascsikarást lakodalomban!": {
+			"gender": "female",
+			"category": "funny"
+		},
+		"hogy lépnél bele egy öntöttvasból készült, rézpántokkal erősített, acéllal tarkított, titánnal ötvözött, ólommal díszített, széles lapokól eszkábált, kétemeletes óriási egérfogóba!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy rogyassza rád az isten az eget, akassza keresztül benned a karót, borítson gyászba fekete fenével!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"hogy tegyen magáévá száz talicska pödrött bajszú aprómajom!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy törne ki a nyavalya!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"hogy vegyenek tőled vért ácskapoccsal a kubai vendégmunkások!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy vetülne rád egy meteor árnyéka!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"inkább a hátsó részedet hordanád ott, ahonnan most az orrod kandikál ki": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"kiszúrom a szemed, eltöröm a lábad, aztán mehetsz amerre látsz!": {
+			"gender": "both",
+			"category": "threat"
+		},
+		"megrázlak, mint Krisztus a vargát": {
+			"gender": "both",
+			"category": "threat"
+		},
+		"melyik rosszul őrzött elmegyógyintézetből sikerült megszöknöd?": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"nyíljon meg alattad a föld! Verjen el a jégeső! Vigyen el az árvíz! Temessen be a hó!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"nőjön be az orrod lyuka!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"olyan hülye vagy, hogy felfelé sikítasz a hullámvasúton": {
+			"gender": "female",
+			"category": "nature"
+		},
+		"olyan tuskó vagy, hogy a láncfűrész lefullad a fejedben": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"olyan csúnya vagy, hogy amikor fényképedet kirakták a tejesdobozra, a gyerekek rászoktak a sörre": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"olyan ronda gyerek voltál, hogy anyádék családi pótlék helyett kártérítést kaptak": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"olyan ronda vagy, hogy az oroszlán sírva zabálna meg": {
+			"gender": "both",
+			"category": "looks"
+		},
+		"olyan senki vagy, ha elmennél, azt hinném többen lettünk": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"olyan vagy, mint a fehér elefánt: ritka nagy állat": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"süljön ki a szemed": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"széttéplek, mint üzbég paraszt a gombos harmonikát!": {
+			"gender": "both",
+			"category": "threat"
+		},
+		"te helyből hülyébb vagy, mint más nekifutásból": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"te azt hiszed, hogy a chat egy állam az államban, és te abban vagy a kiskirály, vagy mi a jóisten büdös farkát hiszel?": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"te azt hiszed, hogy a chat egy állam az államban, és te abban vagy a királykisasszony, vagy mi az isten büdös farkát hiszel?": {
+			"gender": "female",
+			"category": "nature"
+		},
+		"törjön ki a hoppáré, a nyakvas álljon beléd, hűljön rád a bőr, egyen meg a féreg!": {
+			"gender": "male",
+			"category": "curse"
+		},
+		"úgy elverlek, mint a korpába szart macskát!": {
+			"gender": "male",
+			"category": "threat"
+		},
+		"úgy seggbe rúglak, hogy csak az őszi köddel jössz le megint a földre!": {
+			"gender": "male",
+			"category": "threat"
+		},
+		"úgy töröllek szájon mindjárt, hogy a fogaid körmérkőzést játszanak a bennmaradásért!": {
+			"gender": "male",
+			"category": "threat"
+		},
+		"vigyen el a kánya! Vigyen el a végrehajtó!": {
+			"gender": "both",
+			"category": "funny"
+		}
+	}
+}
