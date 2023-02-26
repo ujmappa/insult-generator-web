@@ -34,11 +34,11 @@ const getInsult = (username, gender) => {
 			}
 			if (found) {
 				if (expression.search(/\?/) > -1) position = -1;
-				expressions.push(expression), alreadyUsed.push(expression);
+				expressions.push(expression.trim()), alreadyUsed.push(expression);
 			}
 		}
 		let result = expressions.join(', ');
-		return (offset === 0) ? result[0].toUpperCase() + result.substring(1) : result;
+		return (offset === 0) ? result[0].toUpperCase() + result.substring(1).trim() : result.trim();
 	});
 	result = `${result.replace(/\?\,/gi, '?').replace(/\!\,/gi, '!')}${result.endsWith('?') || result.endsWith('!') ? '' : '!'}`;
 	result = result.split('? ').map(sentence => sentence[0].toUpperCase() + sentence.substring(1)).join('? ');
