@@ -1,5 +1,5 @@
 require('dotenv').config();
-const insults = require('./src/insults')
+const insults = require('./sources/insults')
 
 const express = require('express')
 const app = express()
