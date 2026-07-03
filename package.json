@@ -1,11 +1,19 @@
 {
   "name": "insult-generator-web",
-  "version": "1.0.0",
-  "description": "Cifra-káromkodás generátor",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Hungarian ornate-insult generator",
+  "type": "module",
+  "main": "sources/server/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "dev": "concurrently -k -n server,vite -c blue,magenta \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server": "node sources/server/index.js",
+    "dev:client": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node sources/server/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
   },
   "repository": {
     "type": "git",
@@ -18,7 +26,22 @@
   "author": "New Folder",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "@fontsource/alegreya": "^5.2.8",
+    "@fontsource/alegreya-sans": "^5.2.8",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "lucide-react": "^1.23.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@testing-library/react": "^16.3.2",
+    "@vitejs/plugin-react": "^6.0.3",
+    "concurrently": "^10.0.3",
+    "jsdom": "^29.1.1",
+    "supertest": "^7.2.2",
+    "vite": "^8.1.3",
+    "vitest": "^4.1.9"
   }
 }
