@@ -4,6 +4,9 @@
   "description": "Hungarian ornate-insult generator",
   "type": "module",
   "main": "sources/server/index.js",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "concurrently -k -n server,vite -c blue,magenta \"npm:dev:server\" \"npm:dev:client\"",
     "dev:server": "node sources/server/index.js",
