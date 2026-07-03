@@ -21,9 +21,17 @@
 			"gender": "both",
 			"category": "general"
 		},
+		"árnyékra vetődő": {
+			"gender": "both",
+			"category": "nature"
+		},
 		"becstelen": {
 			"gender": "both",
 			"category": "nature"
+		},
+		"bocskorszagú": {
+			"gender": "both",
+			"category": "general"
 		},
 		"bronztérdű": {
 			"gender": "both",
@@ -73,9 +81,17 @@
 			"gender": "male",
 			"category": "nature"
 		},
+		"ebadta": {
+			"gender": "both",
+			"category": "general"
+		},
 		"ebugatta": {
 			"gender": "both",
 			"category": "general"
+		},
+		"égetnivaló": {
+			"gender": "both",
+			"category": "nature"
 		},
 		"együgyű": {
 			"gender": "both",
@@ -169,13 +185,29 @@
 			"gender": "female",
 			"category": "general"
 		},
+		"istenverte": {
+			"gender": "both",
+			"category": "general"
+		},
 		"kanállal fejtett szakállú": {
 			"gender": "male",
 			"category": "looks"
 		},
+		"kelekótya": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"kenderáztatóban keresztelt": {
+			"gender": "both",
+			"category": "general"
+		},
 		"korhely": {
 			"gender": "male",
 			"category": "general"
+		},
+		"kótyagos": {
+			"gender": "both",
+			"category": "nature"
 		},
 		"köcsögfejű": {
 			"gender": "male",
@@ -216,6 +248,10 @@
 		"kőbölcsőben ringatott": {
 			"gender": "both",
 			"category": "nature"
+		},
+		"madárijesztőtől ruhát kunyeráló": {
+			"gender": "both",
+			"category": "looks"
 		},
 		"makrancoskodó": {
 			"gender": "female",
@@ -325,6 +361,10 @@
 			"gender": "both",
 			"category": "general"
 		},
+		"szeleburdi": {
+			"gender": "both",
+			"category": "nature"
+		},
 		"széllelbélelt": {
 			"gender": "both",
 			"category": "nature"
@@ -349,6 +389,10 @@
 			"gender": "both",
 			"category": "general"
 		},
+		"teddide-teddoda": {
+			"gender": "both",
+			"category": "nature"
+		},
 		"tuskólábú": {
 			"gender": "both",
 			"category": "looks"
@@ -372,6 +416,10 @@
 		"vénségére megbolondult": {
 			"gender": "both",
 			"category": "nature"
+		},
+		"zabszemtől megriadó": {
+			"gender": "male",
+			"category": "nature"
 		}
 	},
 	"statement": {
@@ -382,6 +430,10 @@
 		"akasztófavirág": {
 			"gender": "male",
 			"category": "general"
+		},
+		"anyámasszony katonája": {
+			"gender": "male",
+			"category": "nature"
 		},
 		"anyaszomorító": {
 			"gender": "male",
@@ -475,6 +527,10 @@
 			"gender": "female",
 			"category": "general"
 		},
+		"hétpróbás gazember": {
+			"gender": "male",
+			"category": "general"
+		},
 		"hülyegyerek": {
 			"gender": "male",
 			"category": "nature"
@@ -531,13 +587,25 @@
 			"gender": "both",
 			"category": "general"
 		},
+		"istencsapása": {
+			"gender": "both",
+			"category": "general"
+		},
 		"kapcabetyár": {
 			"gender": "male",
+			"category": "general"
+		},
+		"kapcarongy": {
+			"gender": "both",
 			"category": "general"
 		},
 		"kerge tuskó": {
 			"gender": "male",
 			"category": "general"
+		},
+		"kivagyi hólyag": {
+			"gender": "male",
+			"category": "nature"
 		},
 		"komplett bolond": {
 			"gender": "both",
@@ -549,6 +617,14 @@
 		},
 		"macskajancsi": {
 			"gender": "male",
+			"category": "general"
+		},
+		"mamlasz": {
+			"gender": "male",
+			"category": "nature"
+		},
+		"naplopó": {
+			"gender": "both",
 			"category": "general"
 		},
 		"nagy, egyetemes, világméretű csaló": {
@@ -576,6 +652,10 @@
 			"category": "general"
 		},
 		"pernahajder": {
+			"gender": "male",
+			"category": "general"
+		},
+		"pojáca": {
 			"gender": "male",
 			"category": "general"
 		},
@@ -619,7 +699,15 @@
 			"gender": "female",
 			"category": "general"
 		},
+		"széltoló": {
+			"gender": "male",
+			"category": "general"
+		},
 		"szikkadt picsájú banya": {
+			"gender": "female",
+			"category": "general"
+		},
+		"szipirtyó": {
 			"gender": "female",
 			"category": "general"
 		},
@@ -647,6 +735,10 @@
 			"gender": "male",
 			"category": "nature"
 		},
+		"vasorrú bába": {
+			"gender": "female",
+			"category": "looks"
+		},
 		"zsírpubi": {
 			"gender": "male",
 			"category": "looks"
@@ -654,6 +746,14 @@
 	},
 	"goaway": {
 		"akkor lássalak, amikor a hátam közepét": {
+			"gender": "both",
+			"category": "general"
+		},
+		"eredj a pokol fenekére tüzet rakni!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"eredj a sóhivatalba panaszkodni!": {
 			"gender": "both",
 			"category": "general"
 		},
@@ -684,9 +784,21 @@
 		"mikor akasztod a nyakadba az öregapád kódistarisznyáját, hogy miatyánkon cseréld a kenyeret?": {
 			"gender": "male",
 			"category": "general"
+		},
+		"takarodj, míg a seprű táncra nem perdül a hátadon!": {
+			"gender": "both",
+			"category": "general"
+		},
+		"tűnj el, mint szürke szamár a ködben!": {
+			"gender": "both",
+			"category": "general"
 		}
 	},
 	"intimidation": {
+		"a búcsúi körhinta veled felejtsen el megállni!": {
+			"gender": "both",
+			"category": "funny"
+		},
 		"a csákováci rosseb rágná szét a valagad rántó szíját!": {
 			"gender": "both",
 			"category": "curse"
@@ -699,6 +811,10 @@
 			"gender": "male",
 			"category": "funny"
 		},
+		"a falu bolondja hozzád képest akadémikus": {
+			"gender": "both",
+			"category": "nature"
+		},
 		"a fekete fene egye ki a fogad ráspolynak!": {
 			"gender": "both",
 			"category": "curse"
@@ -706,6 +822,10 @@
 		"a fekete politúros rosseb egyen meg!": {
 			"gender": "both",
 			"category": "curse"
+		},
+		"a fényképedtől megalszik a tej": {
+			"gender": "both",
+			"category": "looks"
 		},
 		"a holló mondja a szemedre azt, hogy csecsebogyó!": {
 			"gender": "both",
@@ -724,6 +844,10 @@
 			"category": "general"
 		},
 		"a kannibálok mondják rád hogy jó ember voltál!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a kefekötő pucolja ki a füledet lószőrkefével!": {
 			"gender": "both",
 			"category": "funny"
 		},
@@ -751,6 +875,10 @@
 			"gender": "male",
 			"category": "funny"
 		},
+		"a rosseb egye meg a kalapod alatt azt a maradék kis eszedet is!": {
+			"gender": "both",
+			"category": "curse"
+		},
 		"a rossznyavalya törne ki ott, ahol vagy!": {
 			"gender": "both",
 			"category": "curse"
@@ -771,7 +899,15 @@
 			"gender": "none",
 			"category": "general"
 		},
+		"a szomszéd kakasa téged tanítson kukorékolni hajnali háromkor!": {
+			"gender": "both",
+			"category": "funny"
+		},
 		"a tésztakészítő asszony cakkozza ki a füled!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"a vándorcirkusz erőművésze téged válasszon súlyzónak!": {
 			"gender": "both",
 			"category": "funny"
 		},
@@ -807,6 +943,10 @@
 			"gender": "both",
 			"category": "nature"
 		},
+		"akkorát húzok a hátadra, hogy a hetedik faluban dobszólónak hallják!": {
+			"gender": "male",
+			"category": "threat"
+		},
 		"akkorát taszítok rajtad, mint a szentesi emberen a hosszú kutya": {
 			"gender": "male",
 			"category": "threat"
@@ -820,6 +960,10 @@
 			"category": "nature"
 		},
 		"annyi eszed van, mint egy marék lepkének": {
+			"gender": "both",
+			"category": "nature"
+		},
+		"annyi sütnivalód sincs, mint egy fél adag lángosnak": {
 			"gender": "both",
 			"category": "nature"
 		},
@@ -839,9 +983,17 @@
 			"gender": "both",
 			"category": "funny"
 		},
+		"egész éjjel a bal füledbe horkoljon a sógorod!": {
+			"gender": "both",
+			"category": "funny"
+		},
 		"egy fogad legyen, az is fájjon!": {
 			"gender": "both",
 			"category": "funny"
+		},
+		"egyen meg a rozsda, mint a gazdátlan kaszát!": {
+			"gender": "both",
+			"category": "curse"
 		},
 		"ha a hülyeségtől nőni lehetne, ülve csókolgatnád a napot!": {
 			"gender": "both",
@@ -858,6 +1010,18 @@
 		"hát mi vagy te?! Szélütött, öreg ócskavas-kereskedő nehéz sorstól sújtott, idióta gyermeke?": {
 			"gender": "both",
 			"category": "nature"
+		},
+		"hét ördögfióka lakjon a padlásodon, oszt te fizess nekik albérletet!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"hogy a harangozó rólad vegyen mértéket!": {
+			"gender": "both",
+			"category": "curse"
+		},
+		"hogy a világ összes küszöbébe egyszerre üsd bele a kislábujjad!": {
+			"gender": "both",
+			"category": "funny"
 		},
 		"hogy az a szép fényes ló harapja meg azt a kockás eget!": {
 			"gender": "both",
@@ -959,8 +1123,20 @@
 			"gender": "both",
 			"category": "funny"
 		},
+		"nőjön káposzta a köldöködben, oszt a nyulak járjanak rá kosztolni!": {
+			"gender": "both",
+			"category": "funny"
+		},
+		"olyan a frizurád, mintha szarka költött volna benne": {
+			"gender": "both",
+			"category": "looks"
+		},
 		"olyan hülye vagy, hogy felfelé sikítasz a hullámvasúton": {
 			"gender": "female",
+			"category": "nature"
+		},
+		"olyan lassan kapcsolsz, hogy a csiga visszafordul megvárni": {
+			"gender": "both",
 			"category": "nature"
 		},
 		"olyan tuskó vagy, hogy a láncfűrész lefullad a fejedben": {
@@ -991,6 +1167,10 @@
 			"gender": "both",
 			"category": "curse"
 		},
+		"szakadjon rád a mestergerenda!": {
+			"gender": "both",
+			"category": "curse"
+		},
 		"széttéplek, mint üzbég paraszt a gombos harmonikát!": {
 			"gender": "both",
 			"category": "threat"
@@ -1015,6 +1195,10 @@
 			"gender": "male",
 			"category": "threat"
 		},
+		"úgy megkergetlek, hogy a bocskorod hazaszalad nélküled!": {
+			"gender": "male",
+			"category": "threat"
+		},
 		"úgy seggbe rúglak, hogy csak az őszi köddel jössz le megint a földre!": {
 			"gender": "male",
 			"category": "threat"
@@ -1022,6 +1206,10 @@
 		"úgy töröllek szájon mindjárt, hogy a fogaid körmérkőzést játszanak a bennmaradásért!": {
 			"gender": "male",
 			"category": "threat"
+		},
+		"verjen meg a hét szűk esztendő!": {
+			"gender": "both",
+			"category": "curse"
 		},
 		"vigyen el a kánya! Vigyen el a végrehajtó!": {
 			"gender": "both",
